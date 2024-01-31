@@ -1,0 +1,7 @@
+
+
+
+1) Hitta högsta poängen för varje par av individer
+2) Plasera de paret med högst poäng bredvid varandra
+3) Placera den med näst högst poäng bredvid de som är kvar im listan
+4) Fortsätt tills alla platser är fyllda
