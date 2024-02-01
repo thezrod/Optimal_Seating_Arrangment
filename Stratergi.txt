@@ -1,0 +1,35 @@
+
+
+
+1) Hitta högsta poängen för varje par av individer
+2) Plasera de paret med högst poäng bredvid varandra
+3) Placera den med näst högst poäng bredvid de som är kvar im listan
+4) Fortsätt tills alla platser är fyllda
+
+
+
+
+-----------------------------------------------------------------------
+1) Find Highest score for each person
+2) Find the pair with the Highest score of all pairs
+3) Place that pair at seat 1 & 2
+4) Take the adjacent seats (8 & 3 the first time)
+5) Place highest scorer in the the adjacent seats.
+6) Repeat until all seats are filled
+
+?) Maybe do that with one seat from step 4) and onwards.
+
+
+
+Needs:
+
+1) Number of seats
+2) List of people
+3) List of seats that are filled (to check when completed) alternative a list on empty seats and check if its not empty
+4) List of seated people and/or list of unseated people
+5)
+    * Method to seat person
+    * Method to calc score between to people
+    * Method to find the highest score for a single person
+    * Method to find the highest total score for all pairs
+    * Method to choose next seat
