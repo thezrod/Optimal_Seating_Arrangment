@@ -116,6 +116,14 @@ public class Calculate_Happiness {
         return highestScorer;
     }
 
+    /*
+    *  Take a list of Person and loop trough to find the highest score.
+    *  Saves the highest score found and replaces it when an even larger is found each loop
+    *  Returns a list of the two persons with the highest score among all pair
+    *  The method uses only one for-loop where to should seem to be correct, this is because a method "findHighestTotal" is used.
+    *  findHighestTotal(p) was written beforehand to find the best neighbour for p and can be used here.
+    *
+    * */
     static protected ArrayList<Person> getHighestScoringPair(){
         int bestScoreSoFar = 0;
         ArrayList<Person> highsocrePair = new ArrayList<>();

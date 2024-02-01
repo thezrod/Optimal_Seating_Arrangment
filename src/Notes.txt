@@ -1,0 +1,18 @@
+
+
+Some notes about the assignment:
+
+
+I spent to long on this assignment in my opinion, i really wanted to get the perfect answer without looking anything up. I could not manage to figure out the perfect algorithm.
+So I went with an idea I had to at least be better than random seating.
+
+
+Something I am not happy about is the confusing similarities between the classes People and Person. Some methods and variables should probebly be moved. When I started it seemed like a good idea to have a people class handling all persons.
+But if I had a chance to do it all over, another structure should probably be better.
+
+The other major thing I would changes is that some methods uses the Person class and some uses Strings of the name of a person. I noticed my mistake well into the process and had a lot of code that needed to be edited if I would go back and fix this.
+So I just continued with this flaw in mind.
+
+
+
+Estimated hours spent: Around 12h

@@ -73,7 +73,6 @@ public class Table {
         return true;
     }
 
-
     protected int seatAndScorePeople(){
         int totalScore = 0;
         ArrayList<Person> copyPersons = People.persons;
